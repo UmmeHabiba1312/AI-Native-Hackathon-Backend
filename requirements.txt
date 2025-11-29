@@ -1,3 +1,4 @@
+qdrant-client
 fastapi
 uvicorn[standard]
 sqlmodel
