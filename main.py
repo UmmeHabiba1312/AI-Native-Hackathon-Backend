@@ -102,3 +102,5 @@ async def translate_endpoint(req: TranslateRequest):
     except Exception as e:
         print(f"Translation Error: {e}")
         return {"translated_text": "Error: Could not translate."}
+
+# done
