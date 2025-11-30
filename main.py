@@ -103,4 +103,4 @@ async def translate_endpoint(req: TranslateRequest):
         print(f"Translation Error: {e}")
         return {"translated_text": "Error: Could not translate."}
 
-# done
+# completed
